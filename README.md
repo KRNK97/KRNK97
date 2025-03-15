@@ -1,9 +1,10 @@
-- 👋 Hi, My name is Karan & I am a software dev from India.
-- 👀 I’m interested in web development, data science and machine learning.
-- 🌱 I mainly work with Python, Django, React.js, SQL. 
-- 📫 My email - karankaul10@gmail.com
+# 👋 Hi, I'm Karan!  
 
-<!---
-KRNK97/KRNK97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Experienced AI/ML Developer | Passionate about Machine Learning, Deep Learning, and AI Innovations  
+
+## 📫 Contact Me  
+- **Email:** [karankaul10@gmail.com](mailto:karankaul10@gmail.com)  
+- **Medium Articles:** [Read my technical articles](https://medium.com/@krnk97)  
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/krnk97/)  
+
+💡 Always learning and exploring new technologies in AI & ML!  
